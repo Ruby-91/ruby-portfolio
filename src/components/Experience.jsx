@@ -7,7 +7,8 @@ export default function Experience() {
       duration: "Jun 2019 – Dec 2021",
       points: [
         "Led end-to-end development of an automated chatbot, reducing onboarding time by 50% and saving 10+ man-hours per employee.",
-        "Managed a 4-member team to integrate 5 airlines with Google Flights, achieving 95% on-time delivery."
+        "Managed a 4-member team to integrate 5 airlines with Google Flights, achieving 95% on-time delivery.",
+        "Partnered with cross-functional teams (engineering, UX, QA, business) to drive the requirements development based on prioritized backlog and ensured a 95% on-time delivery rate."
       ]
     },
     {
@@ -17,9 +18,11 @@ export default function Experience() {
       duration: "Feb 2014 – Jun 2019",
       points: [
         "Collaborated with stakeholders to align technical requirements, improving estimation accuracy and reducing rework by 10%.",
-        "Delivered end-to-end requirements for AB InBev, standardizing infrastructure across 12 locations and 40 distribution centers.",
-        "Supported Wells Fargo’s migration project through full SDLC participation and mentored 9 engineers to speed up onboarding."
-      ]
+        "Established a change management process for documenting user requirement changes, resulting in a 10% reduction in development rework.",	
+        "Implemented end-to-end requirements for AB InBev, resulting in a standardized technical infrastructure across 12 locations and 40 distribution centers.",
+        "Leveraged leadership and communication skills to mentor new team members and deliver knowledge transfer sessions; led to quicker acclimatization for 9 engineers.",	
+        "Supported the successful implementation of a migration project for Wells Fargo by actively participating in all phases of the SDLC (coding, testing, implementation, and support)."
+     ]
     }
   ];
 
