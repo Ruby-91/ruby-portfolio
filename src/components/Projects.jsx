@@ -72,7 +72,7 @@ const projects = [
       approach:
         "Built a Google Apps Script that fetches upcoming assignments from Canvas API, converts UTC timestamps to Pacific Time, categorizes assignments due within 48 hours, and sends Gmail reminders. Each reminder is formatted with course and due-date details for personalized communication.",
       impact:
-        "Improved assignment submission rate by ~23% and reduced last-minute student queries by 15%.",
+        "Improved assignment submission rate by ~20% and reduced last-minute student queries by 15%.",
       tech: "Google Apps Script, Canvas REST API, Gmail API",
       images: [{ src: "/assets/canvas-email.png", alt: "Canvas Assignment Reminder Email Example" }] 
     }
@@ -113,7 +113,7 @@ const projects = [
       approach:
         "Implemented a feedback pipeline that performs sentiment and theme analysis using RoBERTa Transformer model with pattern overrides. Data is cleaned and pushed to Airtable, where a React-based dashboard visualizes sentiment, key themes, and actionable recommendations.",
       impact:
-        "Reduced triage time by 50% and improved feedback visibility for roadmap decisions.",
+        "Delivered real-time sentiment and theme insights, potentially accelerating product decision-making by 40%.",
       tech: "RoBERTa, Python, Pandas, Airtable, React JS, Chart.js, Tailwind CSS, AI-assisted development",
       images: [
         { src: "/assets/feedback-dashboard.png", alt: "Product Feedback Dashboard Visualization" }
