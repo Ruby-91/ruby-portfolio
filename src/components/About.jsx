@@ -4,7 +4,7 @@ export default function About() {
       <h2 className="text-3xl font-bold mb-6 text-gray-800">About</h2>
 
       <p className="text-gray-700 leading-relaxed mb-4">
-        I'm <strong>Ruby Gupta</strong>, a results-driven professional with around
+        I'm <strong>Ruby Gupta</strong>, a results-driven professional with about
         eight years of experience in <strong>software development, analytics, and product execution</strong>.
         Currently pursuing my <strong>MS in Engineering Management</strong> at
         San José State University (GPA 3.9), I combine my technical expertise
